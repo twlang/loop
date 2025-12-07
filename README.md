@@ -7,4 +7,4 @@ This is one of the options you can run your Timeworm code with. It uses hot relo
 
 #### Credits
 - Primary Developer: [Namith Chelikani](https://github.com/NamithChelikani)
-- Developer: [Earl Dish](https://github.com/xmm16)      
+- Developer: [Earl Dish](https://github.com/xmm16)       
